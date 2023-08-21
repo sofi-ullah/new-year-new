@@ -17,7 +17,7 @@
     display: block;
 }
 .mid-conten{
-    max-width: 1200px;
+    max-width: 1050px;
     margin: auto;
 }
 img{
@@ -43,7 +43,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     height:800px;
 }
 .bener-heding{
-   margin-top:240px;
+   margin-top:200px;
    margin-left: 700px;
    margin-right:0;
    direction: rtl;
@@ -51,7 +51,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     
 }
 .bener-heding h1{
-    font-size: 70px;
+    font-size: 65px;
   
    
 }
@@ -78,7 +78,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     height: 900px;
 }
 .service{
-    width: 60%;
+    width: 55%;
 }
 .service img{
      margin-left: 150px;
@@ -97,13 +97,13 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     z-index: -1;
 }
 .service-heding{
-    width: 40%;
+    width: 35%;
     margin-top:350px;
     
 }
 .service-heding h1{
-    width:260px;
-    font-size:40px;
+    width:250px;
+    font-size:35px;
 }
 .service-heding p{
   
@@ -138,14 +138,14 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
 }
 
 .Web-Development{
-    width:300px;
-    margin: 40px;
-    margin-left: 0;
+    width:240px;
+    padding: 30px;
+    padding-left: 0;
 }
 
 .Web-Development h1{
    padding:10px;
-    font-size:30px;
+    font-size:25px;
 }
 .Web-Development p{
     margin: 10px;
@@ -155,7 +155,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
 
 .java{
     width:180px;
-    margin: 40px;
+    padding: 30px;
 }
 
 .java h1{
@@ -169,7 +169,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
 
 .smoking{
     width:220px;
-    margin: 40px;
+    padding: 30px;
 }
 
 .smoking h1{
@@ -183,8 +183,8 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
 
 .ecommers{
     width:180px;
-    margin: 40px;
-    margin-right: 1px;
+    padding: 30px;
+    padding-right: 1px;
 }
 
 .ecommers h1{
@@ -206,7 +206,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     position: relative;
     z-index: 9;
     
-    width: 1140px;
+    width: 1050px;
     float: right;
     margin-bottom: 60px;
 }
@@ -247,7 +247,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     color: #ededf7;
     background: #0f0e0f;
     height: 500px;
-    width: 1350px;
+    width: 1125px;
 }
 .future-liste{
   width: 35%;  
@@ -306,7 +306,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     position: relative;
     z-index: 9;
     
-    width: 1140px;
+    width: 1050px;
     float: right;
     margin-bottom: 60px;
 }
@@ -387,7 +387,7 @@ body,h1,h2,h3,h4,h5,h5,p,a,span{
     position: relative;
     z-index: 9;
     
-    width: 1140px;
+    width: 1050px;
     float: right;
     margin-bottom: 60px;
 }
